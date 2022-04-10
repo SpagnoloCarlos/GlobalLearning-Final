@@ -8,7 +8,7 @@ Members of the group:
 
 The Frontend is made with React, the Backend with Node, Express and the databases with MongoDB.
 
-![img1](https://github.com/SpagnoloCarlos/Portfolio/blob/master/src/assets/dh1.png)
+![img1](https://github.com/SpagnoloCarlos/Portfolio/blob/gh-pages/static/media/dh1.de3a9af700425d5a66d7.png)
 ![img2](https://github.com/SpagnoloCarlos/Portfolio/blob/master/src/assets/dh2.png)
 ![img3](https://github.com/SpagnoloCarlos/Portfolio/blob/master/src/assets/dh3.png)
 ![img4](https://github.com/SpagnoloCarlos/Portfolio/blob/master/src/assets/dh4.png)
